@@ -1,5 +1,11 @@
 # Palaeoverse Workshop Template
 
+# ode to power strip
+it is workshop day!
+plug bars is quite a weird word
+power strip instead
+
+
 ## Purpose
 
 The aim of this template is to provide a set structure for the organisation of content and materials for workshops run by [Palaeoverse](https://palaeoverse.org). It is established for the internal Palaeoverse team and is therefore specific to our needs. However, if useful, anyone is free to download or reuse the template for their own purposes.
